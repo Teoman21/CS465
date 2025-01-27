@@ -1,1 +1,1 @@
-# CS465
+AI class coursework
